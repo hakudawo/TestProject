@@ -33,7 +33,9 @@ void Camera::SetLookAt(const DirectX::XMFLOAT3& eye, const DirectX::XMFLOAT3& fo
 	this->eye = eye;
 	this->focus = focus;
 
-
+	// テスト
+	int a = 0;
+	a++;
 }
 
 //パースペクティブ設定
